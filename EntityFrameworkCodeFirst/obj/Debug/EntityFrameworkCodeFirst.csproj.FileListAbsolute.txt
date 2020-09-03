@@ -1,0 +1,17 @@
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.exe.config
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.exe
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.pdb
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csprojAssemblyReference.cache
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csproj.CopyComplete
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.exe
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.pdb
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.Migrations.InitialCreate.resources
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csproj.GenerateResource.cache
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.Migrations.ClienteCPF.resources
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.Migrations.NomeTabela.resources
+C:\Users\Pablo Dias\source\repos\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.Migrations.NomeTabela1.resources
